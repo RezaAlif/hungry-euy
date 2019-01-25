@@ -1,0 +1,7351 @@
+fileFormatVersion: 2
+guid: 1b9e4333a53b5b346ba29d94c982cb67
+timeCreated: 1507570991
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M484SuperCandySetV2_0
+    21300002: M484SuperCandySetV2_1
+    21300004: M484SuperCandySetV2_2
+    21300006: M484SuperCandySetV2_3
+    21300008: M484SuperCandySetV2_4
+    21300010: M484SuperCandySetV2_5
+    21300012: M484SuperCandySetV2_6
+    21300014: M484SuperCandySetV2_7
+    21300016: M484SuperCandySetV2_8
+    21300018: M484SuperCandySetV2_9
+    21300020: M484SuperCandySetV2_10
+    21300022: M484SuperCandySetV2_11
+    21300024: M484SuperCandySetV2_12
+    21300026: M484SuperCandySetV2_13
+    21300028: M484SuperCandySetV2_14
+    21300030: M484SuperCandySetV2_15
+    21300032: M484SuperCandySetV2_16
+    21300034: M484SuperCandySetV2_17
+    21300036: M484SuperCandySetV2_18
+    21300038: M484SuperCandySetV2_19
+    21300040: M484SuperCandySetV2_20
+    21300042: M484SuperCandySetV2_21
+    21300044: M484SuperCandySetV2_22
+    21300046: M484SuperCandySetV2_23
+    21300048: M484SuperCandySetV2_24
+    21300050: M484SuperCandySetV2_25
+    21300052: M484SuperCandySetV2_26
+    21300054: M484SuperCandySetV2_27
+    21300056: M484SuperCandySetV2_28
+    21300058: M484SuperCandySetV2_29
+    21300060: M484SuperCandySetV2_30
+    21300062: M484SuperCandySetV2_31
+    21300064: M484SuperCandySetV2_32
+    21300066: M484SuperCandySetV2_33
+    21300068: M484SuperCandySetV2_34
+    21300070: M484SuperCandySetV2_35
+    21300072: M484SuperCandySetV2_36
+    21300074: M484SuperCandySetV2_37
+    21300076: M484SuperCandySetV2_38
+    21300078: M484SuperCandySetV2_39
+    21300080: M484SuperCandySetV2_40
+    21300082: M484SuperCandySetV2_41
+    21300084: M484SuperCandySetV2_42
+    21300086: M484SuperCandySetV2_43
+    21300088: M484SuperCandySetV2_44
+    21300090: M484SuperCandySetV2_45
+    21300092: M484SuperCandySetV2_46
+    21300094: M484SuperCandySetV2_47
+    21300096: M484SuperCandySetV2_48
+    21300098: M484SuperCandySetV2_49
+    21300100: M484SuperCandySetV2_50
+    21300102: M484SuperCandySetV2_51
+    21300104: M484SuperCandySetV2_52
+    21300106: M484SuperCandySetV2_53
+    21300108: M484SuperCandySetV2_54
+    21300110: M484SuperCandySetV2_55
+    21300112: M484SuperCandySetV2_56
+    21300114: M484SuperCandySetV2_57
+    21300116: M484SuperCandySetV2_58
+    21300118: M484SuperCandySetV2_59
+    21300120: M484SuperCandySetV2_60
+    21300122: M484SuperCandySetV2_61
+    21300124: M484SuperCandySetV2_62
+    21300126: M484SuperCandySetV2_63
+    21300128: M484SuperCandySetV2_64
+    21300130: M484SuperCandySetV2_65
+    21300132: M484SuperCandySetV2_66
+    21300134: M484SuperCandySetV2_67
+    21300136: M484SuperCandySetV2_68
+    21300138: M484SuperCandySetV2_69
+    21300140: M484SuperCandySetV2_70
+    21300142: M484SuperCandySetV2_71
+    21300144: M484SuperCandySetV2_72
+    21300146: M484SuperCandySetV2_73
+    21300148: M484SuperCandySetV2_74
+    21300150: M484SuperCandySetV2_75
+    21300152: M484SuperCandySetV2_76
+    21300154: M484SuperCandySetV2_77
+    21300156: M484SuperCandySetV2_78
+    21300158: M484SuperCandySetV2_79
+    21300160: M484SuperCandySetV2_80
+    21300162: M484SuperCandySetV2_81
+    21300164: M484SuperCandySetV2_82
+    21300166: M484SuperCandySetV2_83
+    21300168: M484SuperCandySetV2_84
+    21300170: M484SuperCandySetV2_85
+    21300172: M484SuperCandySetV2_86
+    21300174: M484SuperCandySetV2_87
+    21300176: M484SuperCandySetV2_88
+    21300178: M484SuperCandySetV2_89
+    21300180: M484SuperCandySetV2_90
+    21300182: M484SuperCandySetV2_91
+    21300184: M484SuperCandySetV2_92
+    21300186: M484SuperCandySetV2_93
+    21300188: M484SuperCandySetV2_94
+    21300190: M484SuperCandySetV2_95
+    21300192: M484SuperCandySetV2_96
+    21300194: M484SuperCandySetV2_97
+    21300196: M484SuperCandySetV2_98
+    21300198: M484SuperCandySetV2_99
+    21300200: M484SuperCandySetV2_100
+    21300202: M484SuperCandySetV2_101
+    21300204: M484SuperCandySetV2_102
+    21300206: M484SuperCandySetV2_103
+    21300208: M484SuperCandySetV2_104
+    21300210: M484SuperCandySetV2_105
+    21300212: M484SuperCandySetV2_106
+    21300214: M484SuperCandySetV2_107
+    21300216: M484SuperCandySetV2_108
+    21300218: M484SuperCandySetV2_109
+    21300220: M484SuperCandySetV2_110
+    21300222: M484SuperCandySetV2_111
+    21300224: M484SuperCandySetV2_112
+    21300226: M484SuperCandySetV2_113
+    21300228: M484SuperCandySetV2_114
+    21300230: M484SuperCandySetV2_115
+    21300232: M484SuperCandySetV2_116
+    21300234: M484SuperCandySetV2_117
+    21300236: M484SuperCandySetV2_118
+    21300238: M484SuperCandySetV2_119
+    21300240: M484SuperCandySetV2_120
+    21300242: M484SuperCandySetV2_121
+    21300244: M484SuperCandySetV2_122
+    21300246: M484SuperCandySetV2_123
+    21300248: M484SuperCandySetV2_124
+    21300250: M484SuperCandySetV2_125
+    21300252: M484SuperCandySetV2_126
+    21300254: M484SuperCandySetV2_127
+    21300256: M484SuperCandySetV2_128
+    21300258: M484SuperCandySetV2_129
+    21300260: M484SuperCandySetV2_130
+    21300262: M484SuperCandySetV2_131
+    21300264: M484SuperCandySetV2_132
+    21300266: M484SuperCandySetV2_133
+    21300268: M484SuperCandySetV2_134
+    21300270: M484SuperCandySetV2_135
+    21300272: M484SuperCandySetV2_136
+    21300274: M484SuperCandySetV2_137
+    21300276: M484SuperCandySetV2_138
+    21300278: M484SuperCandySetV2_139
+    21300280: M484SuperCandySetV2_140
+    21300282: M484SuperCandySetV2_141
+    21300284: M484SuperCandySetV2_142
+    21300286: M484SuperCandySetV2_143
+    21300288: M484SuperCandySetV2_144
+    21300290: M484SuperCandySetV2_145
+    21300292: M484SuperCandySetV2_146
+    21300294: M484SuperCandySetV2_147
+    21300296: M484SuperCandySetV2_148
+    21300298: M484SuperCandySetV2_149
+    21300300: M484SuperCandySetV2_150
+    21300302: M484SuperCandySetV2_151
+    21300304: M484SuperCandySetV2_152
+    21300306: M484SuperCandySetV2_153
+    21300308: M484SuperCandySetV2_154
+    21300310: M484SuperCandySetV2_155
+    21300312: M484SuperCandySetV2_156
+    21300314: M484SuperCandySetV2_157
+    21300316: M484SuperCandySetV2_158
+    21300318: M484SuperCandySetV2_159
+    21300320: M484SuperCandySetV2_160
+    21300322: M484SuperCandySetV2_161
+    21300324: M484SuperCandySetV2_162
+    21300326: M484SuperCandySetV2_163
+    21300328: M484SuperCandySetV2_164
+    21300330: M484SuperCandySetV2_165
+    21300332: M484SuperCandySetV2_166
+    21300334: M484SuperCandySetV2_167
+    21300336: M484SuperCandySetV2_168
+    21300338: M484SuperCandySetV2_169
+    21300340: M484SuperCandySetV2_170
+    21300342: M484SuperCandySetV2_171
+    21300344: M484SuperCandySetV2_172
+    21300346: M484SuperCandySetV2_173
+    21300348: M484SuperCandySetV2_174
+    21300350: M484SuperCandySetV2_175
+    21300352: M484SuperCandySetV2_176
+    21300354: M484SuperCandySetV2_177
+    21300356: M484SuperCandySetV2_178
+    21300358: M484SuperCandySetV2_179
+    21300360: M484SuperCandySetV2_180
+    21300362: M484SuperCandySetV2_181
+    21300364: M484SuperCandySetV2_182
+    21300366: M484SuperCandySetV2_183
+    21300368: M484SuperCandySetV2_184
+    21300370: M484SuperCandySetV2_185
+    21300372: M484SuperCandySetV2_186
+    21300374: M484SuperCandySetV2_187
+    21300376: M484SuperCandySetV2_188
+    21300378: M484SuperCandySetV2_189
+    21300380: M484SuperCandySetV2_190
+    21300382: M484SuperCandySetV2_191
+    21300384: M484SuperCandySetV2_192
+    21300386: M484SuperCandySetV2_193
+    21300388: M484SuperCandySetV2_194
+    21300390: M484SuperCandySetV2_195
+    21300392: M484SuperCandySetV2_196
+    21300394: M484SuperCandySetV2_197
+    21300396: M484SuperCandySetV2_198
+    21300398: M484SuperCandySetV2_199
+    21300400: M484SuperCandySetV2_200
+    21300402: M484SuperCandySetV2_201
+    21300404: M484SuperCandySetV2_202
+    21300406: M484SuperCandySetV2_203
+    21300408: M484SuperCandySetV2_204
+    21300410: M484SuperCandySetV2_205
+    21300412: M484SuperCandySetV2_206
+    21300414: M484SuperCandySetV2_207
+    21300416: M484SuperCandySetV2_208
+    21300418: M484SuperCandySetV2_209
+    21300420: M484SuperCandySetV2_210
+    21300422: M484SuperCandySetV2_211
+    21300424: M484SuperCandySetV2_212
+    21300426: M484SuperCandySetV2_213
+    21300428: M484SuperCandySetV2_214
+    21300430: M484SuperCandySetV2_215
+    21300432: M484SuperCandySetV2_216
+    21300434: M484SuperCandySetV2_217
+    21300436: M484SuperCandySetV2_218
+    21300438: M484SuperCandySetV2_219
+    21300440: M484SuperCandySetV2_220
+    21300442: M484SuperCandySetV2_221
+    21300444: M484SuperCandySetV2_222
+    21300446: M484SuperCandySetV2_223
+    21300448: M484SuperCandySetV2_224
+    21300450: M484SuperCandySetV2_225
+    21300452: M484SuperCandySetV2_226
+    21300454: M484SuperCandySetV2_227
+    21300456: M484SuperCandySetV2_228
+    21300458: M484SuperCandySetV2_229
+    21300460: M484SuperCandySetV2_230
+    21300462: M484SuperCandySetV2_231
+    21300464: M484SuperCandySetV2_232
+    21300466: M484SuperCandySetV2_233
+    21300468: M484SuperCandySetV2_234
+    21300470: M484SuperCandySetV2_235
+    21300472: M484SuperCandySetV2_236
+    21300474: M484SuperCandySetV2_237
+    21300476: M484SuperCandySetV2_238
+    21300478: M484SuperCandySetV2_239
+    21300480: M484SuperCandySetV2_240
+    21300482: M484SuperCandySetV2_241
+    21300484: M484SuperCandySetV2_242
+    21300486: M484SuperCandySetV2_243
+    21300488: M484SuperCandySetV2_244
+    21300490: M484SuperCandySetV2_245
+    21300492: M484SuperCandySetV2_246
+    21300494: M484SuperCandySetV2_247
+    21300496: M484SuperCandySetV2_248
+    21300498: M484SuperCandySetV2_249
+    21300500: M484SuperCandySetV2_250
+    21300502: M484SuperCandySetV2_251
+    21300504: M484SuperCandySetV2_252
+    21300506: M484SuperCandySetV2_253
+    21300508: M484SuperCandySetV2_254
+    21300510: M484SuperCandySetV2_255
+    21300512: M484SuperCandySetV2_256
+    21300514: M484SuperCandySetV2_257
+    21300516: M484SuperCandySetV2_258
+    21300518: M484SuperCandySetV2_259
+    21300520: M484SuperCandySetV2_260
+    21300522: M484SuperCandySetV2_261
+    21300524: M484SuperCandySetV2_262
+    21300526: M484SuperCandySetV2_263
+    21300528: M484SuperCandySetV2_264
+    21300530: M484SuperCandySetV2_265
+    21300532: M484SuperCandySetV2_266
+    21300534: M484SuperCandySetV2_267
+    21300536: M484SuperCandySetV2_268
+    21300538: M484SuperCandySetV2_269
+    21300540: M484SuperCandySetV2_270
+    21300542: M484SuperCandySetV2_271
+    21300544: M484SuperCandySetV2_272
+    21300546: M484SuperCandySetV2_273
+    21300548: M484SuperCandySetV2_274
+    21300550: M484SuperCandySetV2_275
+    21300552: M484SuperCandySetV2_276
+    21300554: M484SuperCandySetV2_277
+    21300556: M484SuperCandySetV2_278
+    21300558: M484SuperCandySetV2_279
+    21300560: M484SuperCandySetV2_280
+    21300562: M484SuperCandySetV2_281
+    21300564: M484SuperCandySetV2_282
+    21300566: M484SuperCandySetV2_283
+    21300568: M484SuperCandySetV2_284
+    21300570: M484SuperCandySetV2_285
+    21300572: M484SuperCandySetV2_286
+    21300574: M484SuperCandySetV2_287
+    21300576: M484SuperCandySetV2_288
+    21300578: M484SuperCandySetV2_289
+    21300580: M484SuperCandySetV2_290
+    21300582: M484SuperCandySetV2_291
+    21300584: M484SuperCandySetV2_292
+    21300586: M484SuperCandySetV2_293
+    21300588: M484SuperCandySetV2_294
+    21300590: M484SuperCandySetV2_295
+    21300592: M484SuperCandySetV2_296
+    21300594: M484SuperCandySetV2_297
+    21300596: M484SuperCandySetV2_298
+    21300598: M484SuperCandySetV2_299
+    21300600: M484SuperCandySetV2_300
+    21300602: M484SuperCandySetV2_301
+    21300604: M484SuperCandySetV2_302
+    21300606: M484SuperCandySetV2_303
+    21300608: M484SuperCandySetV2_304
+    21300610: M484SuperCandySetV2_305
+    21300612: M484SuperCandySetV2_306
+    21300614: M484SuperCandySetV2_307
+    21300616: M484SuperCandySetV2_308
+    21300618: M484SuperCandySetV2_309
+    21300620: M484SuperCandySetV2_310
+    21300622: M484SuperCandySetV2_311
+    21300624: M484SuperCandySetV2_312
+    21300626: M484SuperCandySetV2_313
+    21300628: M484SuperCandySetV2_314
+    21300630: M484SuperCandySetV2_315
+    21300632: M484SuperCandySetV2_316
+    21300634: M484SuperCandySetV2_317
+    21300636: M484SuperCandySetV2_318
+    21300638: M484SuperCandySetV2_319
+    21300640: M484SuperCandySetV2_320
+    21300642: M484SuperCandySetV2_321
+    21300644: M484SuperCandySetV2_322
+    21300646: M484SuperCandySetV2_323
+    21300648: M484SuperCandySetV2_324
+    21300650: M484SuperCandySetV2_325
+    21300652: M484SuperCandySetV2_326
+    21300654: M484SuperCandySetV2_327
+    21300656: M484SuperCandySetV2_328
+    21300658: M484SuperCandySetV2_329
+    21300660: M484SuperCandySetV2_330
+    21300662: M484SuperCandySetV2_331
+    21300664: M484SuperCandySetV2_332
+    21300666: M484SuperCandySetV2_333
+    21300668: M484SuperCandySetV2_334
+    21300670: M484SuperCandySetV2_335
+    21300672: M484SuperCandySetV2_336
+    21300674: M484SuperCandySetV2_337
+    21300676: M484SuperCandySetV2_338
+    21300678: M484SuperCandySetV2_339
+    21300680: M484SuperCandySetV2_340
+    21300682: M484SuperCandySetV2_341
+    21300684: M484SuperCandySetV2_342
+    21300686: M484SuperCandySetV2_343
+    21300688: M484SuperCandySetV2_344
+    21300690: M484SuperCandySetV2_345
+    21300692: M484SuperCandySetV2_346
+    21300694: M484SuperCandySetV2_347
+    21300696: M484SuperCandySetV2_348
+    21300698: M484SuperCandySetV2_349
+    21300700: M484SuperCandySetV2_350
+    21300702: M484SuperCandySetV2_351
+    21300704: M484SuperCandySetV2_352
+    21300706: M484SuperCandySetV2_353
+    21300708: M484SuperCandySetV2_354
+    21300710: M484SuperCandySetV2_355
+    21300712: M484SuperCandySetV2_356
+    21300714: M484SuperCandySetV2_357
+    21300716: M484SuperCandySetV2_358
+    21300718: M484SuperCandySetV2_359
+    21300720: M484SuperCandySetV2_360
+    21300722: M484SuperCandySetV2_361
+    21300724: M484SuperCandySetV2_362
+    21300726: M484SuperCandySetV2_363
+    21300728: M484SuperCandySetV2_364
+    21300730: M484SuperCandySetV2_365
+    21300732: M484SuperCandySetV2_366
+    21300734: M484SuperCandySetV2_367
+    21300736: M484SuperCandySetV2_368
+    21300738: M484SuperCandySetV2_369
+    21300740: M484SuperCandySetV2_370
+    21300742: M484SuperCandySetV2_371
+    21300744: M484SuperCandySetV2_372
+    21300746: M484SuperCandySetV2_373
+    21300748: M484SuperCandySetV2_374
+    21300750: M484SuperCandySetV2_375
+    21300752: M484SuperCandySetV2_376
+    21300754: M484SuperCandySetV2_377
+    21300756: M484SuperCandySetV2_378
+    21300758: M484SuperCandySetV2_379
+    21300760: M484SuperCandySetV2_380
+    21300762: M484SuperCandySetV2_381
+    21300764: M484SuperCandySetV2_382
+    21300766: M484SuperCandySetV2_383
+    21300768: M484SuperCandySetV2_384
+    21300770: M484SuperCandySetV2_385
+    21300772: M484SuperCandySetV2_386
+    21300774: M484SuperCandySetV2_387
+    21300776: M484SuperCandySetV2_388
+    21300778: M484SuperCandySetV2_389
+    21300780: M484SuperCandySetV2_390
+    21300782: M484SuperCandySetV2_391
+    21300784: M484SuperCandySetV2_392
+    21300786: M484SuperCandySetV2_393
+    21300788: M484SuperCandySetV2_394
+    21300790: M484SuperCandySetV2_395
+    21300792: M484SuperCandySetV2_396
+    21300794: M484SuperCandySetV2_397
+    21300796: M484SuperCandySetV2_398
+    21300798: M484SuperCandySetV2_399
+    21300800: M484SuperCandySetV2_400
+    21300802: M484SuperCandySetV2_401
+    21300804: M484SuperCandySetV2_402
+    21300806: M484SuperCandySetV2_403
+    21300808: M484SuperCandySetV2_404
+    21300810: M484SuperCandySetV2_405
+    21300812: M484SuperCandySetV2_406
+    21300814: M484SuperCandySetV2_407
+    21300816: M484SuperCandySetV2_408
+    21300818: M484SuperCandySetV2_409
+    21300820: M484SuperCandySetV2_410
+    21300822: M484SuperCandySetV2_411
+    21300824: M484SuperCandySetV2_412
+    21300826: M484SuperCandySetV2_413
+    21300828: M484SuperCandySetV2_414
+    21300830: M484SuperCandySetV2_415
+    21300832: M484SuperCandySetV2_416
+    21300834: M484SuperCandySetV2_417
+    21300836: M484SuperCandySetV2_418
+    21300838: M484SuperCandySetV2_419
+    21300840: M484SuperCandySetV2_420
+    21300842: M484SuperCandySetV2_421
+    21300844: M484SuperCandySetV2_422
+    21300846: M484SuperCandySetV2_423
+    21300848: M484SuperCandySetV2_424
+    21300850: M484SuperCandySetV2_425
+    21300852: M484SuperCandySetV2_426
+    21300854: M484SuperCandySetV2_427
+    21300856: M484SuperCandySetV2_428
+    21300858: M484SuperCandySetV2_429
+    21300860: M484SuperCandySetV2_430
+    21300862: M484SuperCandySetV2_431
+    21300864: M484SuperCandySetV2_432
+    21300866: M484SuperCandySetV2_433
+    21300868: M484SuperCandySetV2_434
+    21300870: M484SuperCandySetV2_435
+    21300872: M484SuperCandySetV2_436
+    21300874: M484SuperCandySetV2_437
+    21300876: M484SuperCandySetV2_438
+    21300878: M484SuperCandySetV2_439
+    21300880: M484SuperCandySetV2_440
+    21300882: M484SuperCandySetV2_441
+    21300884: M484SuperCandySetV2_442
+    21300886: M484SuperCandySetV2_443
+    21300888: M484SuperCandySetV2_444
+    21300890: M484SuperCandySetV2_445
+    21300892: M484SuperCandySetV2_446
+    21300894: M484SuperCandySetV2_447
+    21300896: M484SuperCandySetV2_448
+    21300898: M484SuperCandySetV2_449
+    21300900: M484SuperCandySetV2_450
+    21300902: M484SuperCandySetV2_451
+    21300904: M484SuperCandySetV2_452
+    21300906: M484SuperCandySetV2_453
+    21300908: M484SuperCandySetV2_454
+    21300910: M484SuperCandySetV2_455
+    21300912: M484SuperCandySetV2_456
+    21300914: M484SuperCandySetV2_457
+    21300916: M484SuperCandySetV2_458
+    21300918: M484SuperCandySetV2_459
+    21300920: M484SuperCandySetV2_460
+    21300922: M484SuperCandySetV2_461
+    21300924: M484SuperCandySetV2_462
+    21300926: M484SuperCandySetV2_463
+    21300928: M484SuperCandySetV2_464
+    21300930: M484SuperCandySetV2_465
+    21300932: M484SuperCandySetV2_466
+    21300934: M484SuperCandySetV2_467
+    21300936: M484SuperCandySetV2_468
+    21300938: M484SuperCandySetV2_469
+    21300940: M484SuperCandySetV2_470
+    21300942: M484SuperCandySetV2_471
+    21300944: M484SuperCandySetV2_472
+    21300946: M484SuperCandySetV2_473
+    21300948: M484SuperCandySetV2_474
+    21300950: M484SuperCandySetV2_475
+    21300952: M484SuperCandySetV2_476
+    21300954: M484SuperCandySetV2_477
+    21300956: M484SuperCandySetV2_478
+    21300958: M484SuperCandySetV2_479
+    21300960: M484SuperCandySetV2_480
+    21300962: M484SuperCandySetV2_481
+    21300964: M484SuperCandySetV2_482
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1177
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1171
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1172
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1153
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_27
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_29
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1144
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_37
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_39
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1141
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1116
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_48
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_50
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_52
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1110
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_53
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_54
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_55
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_58
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1104
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1082
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_60
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1082
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1082
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1082
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1083
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1083
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1083
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_68
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_70
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_71
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1061
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_72
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_73
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_74
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_75
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_76
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_77
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1070
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_82
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1048
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_86
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_87
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_88
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_89
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_90
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_91
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1040
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_92
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_98
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1021
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_101
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_102
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_103
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_104
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_105
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1026
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_106
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_107
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_109
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_111
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_112
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 994
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_114
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_117
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_118
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_119
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 993
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_120
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_121
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_124
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_125
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 968
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_126
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_127
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_128
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_129
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_130
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_131
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 962
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_132
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_135
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_136
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_137
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 943
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_138
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_139
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_140
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_142
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_143
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_144
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_145
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_146
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_147
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 925
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_149
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_152
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 907
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_155
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 877
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_156
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 877
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_158
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_159
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_160
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_161
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_162
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 870
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_163
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_164
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_165
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_166
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_168
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 877
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_169
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 877
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_170
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 877
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_171
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_172
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_173
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_174
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_175
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_176
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 841
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_177
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_178
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_179
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_180
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_181
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_182
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_183
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_184
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_185
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_186
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_187
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_188
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_189
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_190
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_191
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 841
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_192
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_194
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_195
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_196
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 810
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_198
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 812
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_199
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 812
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_200
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 812
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 812
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_202
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_203
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_204
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_205
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_206
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_207
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 812
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_208
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 774
+        width: 171
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_209
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 774
+        width: 216
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_210
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_211
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_212
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_213
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_214
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_215
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 752
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_216
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 749
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_217
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 749
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_218
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 749
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_219
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 749
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_220
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_221
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_222
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_223
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_224
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_225
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 750
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_226
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 716
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_227
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 716
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_228
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 716
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_229
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 716
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_230
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_231
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_232
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_233
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 727
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_234
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 718
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_235
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 718
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_236
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 718
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_237
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 683
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_238
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 687
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_239
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 683
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_240
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 687
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_241
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 683
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_242
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 687
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_243
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_244
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_245
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_246
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_247
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_248
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_249
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 692
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_250
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_251
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_252
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_253
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_254
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_255
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 693
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_256
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 643
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_257
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 643
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_258
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_259
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_260
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_261
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_262
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_263
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_264
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 663
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_265
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_266
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_267
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_268
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_269
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_270
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 664
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_271
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 647
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_272
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 647
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_273
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 647
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_274
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 647
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_275
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 647
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_276
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_277
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_278
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_279
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_280
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_281
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_282
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 629
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_283
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_284
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_285
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_286
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_287
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_288
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 635
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_289
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 596
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_290
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 596
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_291
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 596
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_292
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 596
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_293
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 596
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_294
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_295
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_296
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_297
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_298
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_299
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_300
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 599
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_301
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 564
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_302
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 565
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_303
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 542
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_304
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 542
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_305
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 542
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_306
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 542
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_307
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 546
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_308
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 544
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_309
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 547
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_310
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 545
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_311
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 545
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_312
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 545
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_313
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 547
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_314
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 545
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_315
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_316
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_317
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_318
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_319
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 491
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_320
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_321
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_322
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_323
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_324
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_325
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_326
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 491
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_327
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_328
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_329
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_330
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 464
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_331
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 436
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_332
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_333
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_334
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_335
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_336
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_337
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_338
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 436
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_339
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 418
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_340
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 418
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_341
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 418
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_342
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 418
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_343
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 390
+        width: 79
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_344
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_345
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_346
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_347
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_348
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_349
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 390
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_350
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_351
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_352
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_353
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_354
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_355
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 362
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_356
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 313
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_357
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 313
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_358
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 303
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_359
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 310
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_360
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 311
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_361
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 250
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_362
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 250
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_363
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 250
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_364
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 250
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_365
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_366
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 250
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_367
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 255
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_368
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_369
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_370
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 251
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_371
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 255
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_372
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 255
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_373
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_374
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_375
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 250
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_376
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 250
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_377
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_378
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 166
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_379
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_380
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 166
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_381
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 166
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_382
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_383
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_384
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_385
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_386
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_387
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_388
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 164
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_389
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 164
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_390
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_391
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 164
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_392
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 164
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_393
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 164
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_394
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 164
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_395
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 164
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_396
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 164
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_397
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 99
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_398
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 99
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_399
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_400
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_401
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_402
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_403
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_404
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_405
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_406
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 79
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_407
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_408
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_409
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_410
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_411
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_412
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_413
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_414
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_415
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_416
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_417
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_418
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_419
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_420
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_421
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_422
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_423
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_424
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_425
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_426
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_427
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_428
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_429
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 40
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_430
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_431
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_432
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_433
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_434
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_435
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_436
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_437
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_438
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_439
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_440
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 37
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_441
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 23
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_442
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_443
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_444
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_445
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_446
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_447
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_448
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_449
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_450
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_451
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_452
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_453
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_454
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_455
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_456
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_457
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_458
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_459
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_460
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_461
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_462
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_463
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_464
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_465
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_466
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_467
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_468
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_469
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_470
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_471
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_472
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_473
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_474
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_475
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 32
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_476
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_477
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_478
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_479
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_480
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_481
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: M484SuperCandySetV2_482
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 32
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

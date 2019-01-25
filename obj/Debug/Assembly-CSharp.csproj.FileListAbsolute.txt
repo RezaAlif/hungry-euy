@@ -1,0 +1,2 @@
+E:\Dokumen\Unity\Tizen\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Dokumen\Unity\Tizen\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
